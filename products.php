@@ -139,7 +139,7 @@ ob_start();
                 <tbody>
                     <tr>
                         <td>P001</td>
-                        <td><img src="strawbasil.jpg" alt="Strawberry Basil" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p001.jpg" alt="Strawberry Basil" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Strawberry Basil Craft Soda</td>
                         <td>$12.50</td>
                         <td>Craft Soda Co</td>
@@ -151,7 +151,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P002</td>
-                        <td><img src="rasberipudina.jpg" alt="Raspberry Mint" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p002.jpg" alt="Raspberry Mint" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Raspberry Mint Craft Soda</td>
                         <td>$12.50</td>
                         <td>Craft Soda Co</td>
@@ -163,7 +163,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P003</td>
-                        <td><img src="blueberrythyme.jpg" alt="Blueberry Thyme" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p003.jpg" alt="Blueberry Thyme" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Blueberry Thyme Craft Soda</td>
                         <td>$13.00</td>
                         <td>Artisan Brew</td>
@@ -175,7 +175,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P004</td>
-                        <td><img src="peachrosemary.jpg" alt="Peach Rosemary" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p004.jpg" alt="Peach Rosemary" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Peach Rosemary Craft Soda</td>
                         <td>$12.50</td>
                         <td>Artisan Brew</td>
@@ -187,7 +187,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P005</td>
-                        <td><img src="mangocilantro.jpg" alt="Mango Cilantro" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p005.jpg" alt="Mango Cilantro" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Mango Cilantro Craft Soda</td>
                         <td>$13.00</td>
                         <td>Craft Soda Co</td>
@@ -199,7 +199,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P006</td>
-                        <td><img src="lavendarlemon.jpg" alt="Lavender Lemonade" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p006.jpg" alt="Lavender Lemonade" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Lavender Lemonade Craft Soda</td>
                         <td>$14.00</td>
                         <td>Botanical Soda</td>
@@ -211,7 +211,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P007</td>
-                        <td><img src="grapehibiscus.jpg" alt="Grapefruit Hibiscus" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p007.jpg" alt="Grapefruit Hibiscus" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Grapefruit Hibiscus Craft Soda</td>
                         <td>$13.50</td>
                         <td>Botanical Soda</td>
@@ -223,7 +223,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P008</td>
-                        <td><img src="bloodorange.jpg" alt="Blood Orange Cardamom" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p008.jpg" alt="Blood Orange Cardamom" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Blood Orange Cardamom Craft Soda</td>
                         <td>$14.00</td>
                         <td>Craft Soda Co</td>
@@ -235,7 +235,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P009</td>
-                        <td><img src="limemint.jpg" alt="Lime Mint" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p009.jpg" alt="Lime Mint" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Lime Mint (Mojito Style) Craft Soda</td>
                         <td>$12.00</td>
                         <td>Craft Soda Co</td>
@@ -247,7 +247,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P010</td>
-                        <td><img src="yuzueldefflower.jpg" alt="Yuzu Elderflower" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p010.jpg" alt="Yuzu Elderflower" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Yuzu Elderflower Craft Soda</td>
                         <td>$15.00</td>
                         <td>Botanical Soda</td>
@@ -259,7 +259,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P011</td>
-                        <td><img src="fieryginger.jpg" alt="Fiery Ginger Ale" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p011.jpg" alt="Fiery Ginger Ale" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Fiery Ginger Ale Craft Soda</td>
                         <td>$13.00</td>
                         <td>Artisan Brew</td>
@@ -271,7 +271,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P012</td>
-                        <td><img src="gingerhibiscus.jpg" alt="Ginger Hibiscus" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p012.jpg" alt="Ginger Hibiscus" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Ginger Hibiscus Craft Soda</td>
                         <td>$13.50</td>
                         <td>Botanical Soda</td>
@@ -283,7 +283,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P013</td>
-                        <td><img src="applecider.jpg" alt="Spiced Apple Cider" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p013.jpg" alt="Spiced Apple Cider" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Spiced Apple Cider Craft Soda</td>
                         <td>$13.50</td>
                         <td>Artisan Brew</td>
@@ -295,7 +295,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P014</td>
-                        <td><img src="vanillachai.jpg" alt="Vanilla Chai Spice" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p014.jpg" alt="Vanilla Chai Spice" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Vanilla Chai Spice Craft Soda</td>
                         <td>$14.00</td>
                         <td>Artisan Brew</td>
@@ -307,7 +307,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P015</td>
-                        <td><img src="smokevanilla.jpg" alt="Smoked Vanilla Cola" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p015.jpg" alt="Smoked Vanilla Cola" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Smoked Vanilla Cola Craft Soda</td>
                         <td>$14.50</td>
                         <td>Artisan Brew</td>
@@ -319,7 +319,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P016</td>
-                        <td><img src="passionkelapa.jpg" alt="Passionfruit Coconut" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p016.jpg" alt="Passionfruit Coconut" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Passionfruit Coconut Craft Soda</td>
                         <td>$13.50</td>
                         <td>Craft Soda Co</td>
@@ -331,7 +331,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P017</td>
-                        <td><img src="pineapplejalapeno.jpg" alt="Pineapple Jalapeno" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p017.jpg" alt="Pineapple Jalapeno" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Pineapple Jalapeño Craft Soda</td>
                         <td>$13.00</td>
                         <td>Craft Soda Co</td>
@@ -343,7 +343,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P018</td>
-                        <td><img src="laicirose.jpg" alt="Lychee Rose" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p018.jpg" alt="Lychee Rose" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Lychee Rose Craft Soda</td>
                         <td>$14.00</td>
                         <td>Botanical Soda</td>
@@ -355,7 +355,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P019</td>
-                        <td><img src="pomegratemola.jpg" alt="Pomegranate Molasses Lime" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p019.jpg" alt="Pomegranate Molasses Lime" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Pomegranate Molasses Lime Craft Soda</td>
                         <td>$14.50</td>
                         <td>Botanical Soda</td>
@@ -367,7 +367,7 @@ ob_start();
                     </tr>
                     <tr>
                         <td>P020</td>
-                        <td><img src="tamarindcili.jpg" alt="Tamarind Chili Lime" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                        <td><img src="p020.jpg" alt="Tamarind Chili Lime" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;"></td>
                         <td>Tamarind Chili Lime Craft Soda</td>
                         <td>$13.50</td>
                         <td>Craft Soda Co</td>
