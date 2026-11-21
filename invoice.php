@@ -22,7 +22,7 @@ ob_start();
     <div class="card-body p-4">
         <div class="row mb-4">
             <div class="col-md-6">
-                <h4>My Company</h4>
+                <h4>SODADAYAH</h4>
                 <p class="text-muted mb-0">Sales Invoice</p>
             </div>
             <div class="col-md-6 text-md-end">
@@ -47,7 +47,7 @@ ob_start();
             <table class="table table-striped">
                 <thead class="table-dark">
                     <tr>
-                        <th>#</th>
+                        <th>No.</th>
                         <th>Product</th>
                         <th>Unit Price</th>
                         <th>Quantity</th>

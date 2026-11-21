@@ -93,9 +93,9 @@ ob_start();
                 <tbody>
                     <tr>
                         <td>S001</td>
-                        <td>Siti Aminah</td>
+                        <td>Jane Smith</td>
                         <td>019-8765432</td>
-                        <td>siti@example.com</td>
+                        <td>janesmith@example.com</td>
                         <td>
                             <a href="#" class="btn btn-sm btn-warning">
                                 <i class="bi bi-pencil"></i>

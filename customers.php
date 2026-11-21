@@ -102,10 +102,10 @@ ob_start();
                 <tbody>
                     <tr>
                         <td>C001</td>
-                        <td>Ali bin Abu</td>
-                        <td>Male</td>
+                        <td>Alice Johnson</td>
+                        <td>Female</td>
                         <td>012-3456789</td>
-                        <td>2026-03-30</td>
+                        <td>2026-10-03</td>
                         <td>
                             <a href="#" class="btn btn-sm btn-warning">
                                 <i class="bi bi-pencil"></i>

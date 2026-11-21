@@ -18,7 +18,7 @@ ob_start();
                     <i class="bi bi-pencil-square text-primary me-2"></i>
                     Product Form
                 </h5>
-                <small class="text-muted">Fill in the details of a product</small>
+                <small class="text-muted">Fill in the details of your craft soda drink</small>
             </div>
             <div class="col-auto">
                 <span class="badge bg-primary">Required fields</span>
@@ -51,26 +51,26 @@ ob_start();
                     </select>
                 </div>
  
+                <!-- 1. Flavor Profile (Ganti Condition) -->
                 <div class="col-md-3">
-                    <label for="product_condition" class="form-label">Condition <span class="text-danger" aria-hidden="true">*</span></label>
-                    <select name="product_condition" id="product_condition" class="form-select" required>
-                        <option value="">Select Condition</option>
-                        <option value="New">New</option>
-                        <option value="Used">Used</option>
+                    <label for="flavor_profile" class="form-label">Flavor Profile <span class="text-danger" aria-hidden="true">*</span></label>
+                    <select name="flavor_profile" id="flavor_profile" class="form-select" required>
+                        <option value="">Select Profile</option>
+                        <option value="Fruity & Sweet">Fruity & Sweet</option>
+                        <option value="Herbal & Floral">Herbal & Floral</option>
+                        <option value="Spicy & Tangy">Spicy & Tangy</option>
+                        <option value="Citrus & Zesty">Citrus & Zesty</option>
                     </select>
                 </div>
  
+                <!-- 2. Bottle Size / Volume (Ganti Manufacturing Year) -->
                 <div class="col-md-3">
-                    <label for="year" class="form-label">Manufacturing Year <span class="text-danger" aria-hidden="true">*</span></label>
-                    <select name="product_year" id="year" class="form-select" required>
-                        <option value="">Select Year</option>
-                        <option value="2020">2020</option>
-                        <option value="2021">2021</option>
-                        <option value="2022">2022</option>
-                        <option value="2023">2023</option>
-                        <option value="2024">2024</option>
-                        <option value="2025">2025</option>
-                        <option value="2026">2026</option>
+                    <label for="volume" class="form-label">Bottle Size <span class="text-danger" aria-hidden="true">*</span></label>
+                    <select name="product_volume" id="volume" class="form-select" required>
+                        <option value="">Select Size</option>
+                        <option value="250ml">250ml Glass Bottle</option>
+                        <option value="330ml">330ml Standard Bottle</option>
+                        <option value="500ml">500ml Sharing Bottle</option>
                     </select>
                 </div>
                   
@@ -78,9 +78,17 @@ ob_start();
                     <label for="quantity" class="form-label">Quantity <span class="text-danger" aria-hidden="true">*</span></label>
                     <input name="product_quantity" id="quantity" type="number" class="form-control" placeholder="Enter Quantity" value="" required min="0">
                 </div>
+
+                <!-- 3. Sugar Level (Ganti Image Filename yang tak logik) -->
                 <div class="col-md-3">
-                    <label for="product_image" class="form-label">Image</label>
-                    <input name="product_image" id="product_image" type="text" class="form-control" placeholder="Enter image filename" value="">
+                    <label for="sugar_level" class="form-label">Sugar Level <span class="text-danger" aria-hidden="true">*</span></label>
+                    <select name="sugar_level" id="sugar_level" class="form-select" required>
+                        <option value="">Select Sugar Level</option>
+                        <option value="Low Sugar">Low Sugar</option>
+                        <option value="Normal">Normal Sugar</option>
+                        <option value="Less Sweet">More Sugar</option>
+                        <option value="Unsweetened">Unsweetened / Zero Sugar</option>
+                    </select>
                 </div>
             </div>
               
